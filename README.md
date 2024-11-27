@@ -1,6 +1,6 @@
 Spotify Automation CLI Program
 
-- Developed by Wolfdragon24 in Python
+- Developed in Python
 - Additional reduced functionality version without friend-based management, suitable for usage and tested with [PyInstaller](https://pyinstaller.org/en/stable/): publishableplaylist.py
 - Features
   - Integration with the [Spotify API](https://developer.spotify.com/documentation/web-api) through [Spotipy](https://spotipy.readthedocs.io/en/2.24.0/).
